@@ -42,7 +42,7 @@ function App() {
       <header className="bg-blue-600 text-white p-4">
         <div className="container mx-auto flex items-center">
           <Stethoscope className="mr-2" size={24} />
-          <h1 className="text-2xl font-bold">MedCase: Estudios de Casos Clínicos</h1>
+          <h1 className="text-2xl font-bold">CollyMedCase: Estudios de Casos Clínicos</h1>
         </div>
       </header>
 
@@ -64,7 +64,7 @@ function App() {
 
       <footer className="bg-gray-200 p-4 mt-8">
         <div className="container mx-auto text-center text-gray-600">
-          © 2024 MedCase. Todos los derechos reservados.
+          © 2024 CollyMedCase. Todos los derechos reservados.
         </div>
       </footer>
     </div>
